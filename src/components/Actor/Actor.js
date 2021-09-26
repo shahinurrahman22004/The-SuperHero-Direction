@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCoffee } from '@fortawesome/free-solid-svg-icons';
+import { faCartPlus } from '@fortawesome/free-solid-svg-icons';
 import './Actor.css';
 
 const Actor = (props) => {
@@ -8,7 +8,7 @@ const Actor = (props) => {
 
     const {name, img, ActingSkill, Oscars, OscarNominations, conutry} = props.actor;
 
-    const icon = <FontAwesomeIcon icon={faCoffee} />
+    const icon = <FontAwesomeIcon icon={faCartPlus} />
 
     return (
         <div className="actors">
