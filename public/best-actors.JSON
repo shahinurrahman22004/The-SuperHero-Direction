@@ -1,0 +1,92 @@
+[
+    {
+        "key": "1",
+        "name": "Jack Nicholson",
+        "conutry": "America",
+        "ActingSkill": "5 Stars",
+        "Oscars": 3,
+        "OscarNominations": 12,
+        "img": "https://m.media-amazon.com/images/M/MV5BMTQ3OTY0ODk0M15BMl5BanBnXkFtZTYwNzE4Njc4._V1_UY209_CR5,0,140,209_AL_.jpg"
+    },
+    {
+        "key": "2",
+        "name": "Marlon Brando",
+        "conutry": "U.K.",
+        "ActingSkill": "5 Stars",
+        "Oscars": 2,
+        "OscarNominations": 8,
+        "img": "https://m.media-amazon.com/images/M/MV5BMTg3MDYyMDE5OF5BMl5BanBnXkFtZTcwNjgyNTEzNA@@._V1_UY209_CR65,0,140,209_AL_.jpg"
+    },
+    {
+        "key": "3",
+        "name": "Robert De Niro",
+        "conutry": " New York",
+        "ActingSkill": "5 Stars",
+        "Oscars": 2,
+        "OscarNominations": 7,
+        "img": "https://m.media-amazon.com/images/M/MV5BMjAwNDU3MzcyOV5BMl5BanBnXkFtZTcwMjc0MTIxMw@@._V1_UY209_CR9,0,140,209_AL_.jpg"
+    },
+    {
+        "key": "4",
+        "name": "Al Pacino",
+        "conutry": "New York",
+        "ActingSkill": "5 Stars",
+        "Oscars": 1,
+        "OscarNominations": 8,
+        "img": "https://m.media-amazon.com/images/M/MV5BMTQzMzg1ODAyNl5BMl5BanBnXkFtZTYwMjAxODQ1._V1_UX140_CR0,0,140,209_AL_.jpg"
+    },
+    {
+        "key": "5",
+        "name": "Daniel Day-Lewis",
+        "conutry": "U.K.",
+        "ActingSkill": "5 Stars",
+        "Oscars": 3,
+        "OscarNominations": 5,
+        "img": "https://m.media-amazon.com/images/M/MV5BMjE2NDY2NDc1Ml5BMl5BanBnXkFtZTcwNjAyMjkwOQ@@._V1_UY209_CR9,0,140,209_AL_.jpg"
+    },
+    {
+        "key": "6",
+        "name": "Dustin Hoffman",
+        "conutry": "Columbia",
+        "ActingSkill": "5 Stars",
+        "Oscars": 2,
+        "OscarNominations": 7,
+        "img": "https://m.media-amazon.com/images/M/MV5BMTc3NzU0ODczMF5BMl5BanBnXkFtZTcwODEyMDY5Mg@@._V1_UY209_CR8,0,140,209_AL_.jpg"
+    },
+    {
+        "key": "7",
+        "name": "Tom Hanks",
+        "conutry": " Concord, California",
+        "ActingSkill": "5 Stars",
+        "Oscars": 2,
+        "OscarNominations": 5,
+        "img": "https://m.media-amazon.com/images/M/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ@@._V1_UY209_CR2,0,140,209_AL_.jpg"
+    },
+    {
+        "key": "8",
+        "name": "Anthony Hopkins",
+        "conutry": "Margam, Wales",
+        "ActingSkill": "5 Stars",
+        "Oscars": 1,
+        "OscarNominations": 4,
+        "img": "https://m.media-amazon.com/images/M/MV5BMTg5ODk1NTc5Ml5BMl5BanBnXkFtZTYwMjAwOTI4._V1_UY209_CR5,0,140,209_AL_.jpg"
+    },
+    {
+        "key": "9",
+        "name": "Paul Newman",
+        "conutry": "Cleveland, Ohio",
+        "ActingSkill": "4.8 Stars",
+        "Oscars": 1,
+        "OscarNominations": 10,
+        "img": "https://m.media-amazon.com/images/M/MV5BODUwMDYwNDg3N15BMl5BanBnXkFtZTcwODEzNTgxMw@@._V1_UY209_CR15,0,140,209_AL_.jpg"
+    },
+    {
+        "key": "10",
+        "name": "Denzel Washington",
+        "conutry": "Mount Vernon, New York",
+        "ActingSkill": "5 Stars",
+        "Oscars": 2,
+        "OscarNominations": 8,
+        "img": "https://m.media-amazon.com/images/M/MV5BMjE5NDU2Mzc3MV5BMl5BanBnXkFtZTcwNjAwNTE5OQ@@._V1_UY209_CR8,0,140,209_AL_.jpg"
+    }
+]
